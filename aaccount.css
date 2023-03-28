@@ -1,0 +1,24 @@
+
+
+body { 
+    background-image: url("https://www.theindiaforum.in/sites/default/files/field/image/2022/06/21/ramkumar-radhakrishnan-wikimedia-1622193304-1622193304.jpeg"); 
+     background-repeat:no-repeat; 
+     background-size:cover; 
+} 
+.ss{
+    width: 450px;
+    top:  50%;
+    left: 30%;
+    transform: translate(-80%,-50%);
+    position: absolute;
+    color: yellow;
+    font-size: larger ;
+}
+.btn{
+    transform: translate(150%,50%);
+    background-color: yellow;
+    border-radius: 1px;
+    width: 10vmax;
+    height: 50px;
+    border-width: 1px;
+}
